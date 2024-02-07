@@ -36,3 +36,6 @@ fuzzgoat_ASAN
 
 # Generated files
 out/
+out*
+.ccls*
+*.cmplog
