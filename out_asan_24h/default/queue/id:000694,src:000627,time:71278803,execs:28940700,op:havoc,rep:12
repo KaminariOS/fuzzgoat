@@ -1,0 +1,35 @@
+{"":[{
+    ";\b\\\	glossary": {
+"title": "examplry",
+		"GlossDi\\	glossary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+"Glossntry": {
+    "ID": "So Language",
+					"Acronym": "SFML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+        "para": "A meGML",
+					"SortAs": "SGML",
+					"GlossTssm": "Stan Markup Language",
+					"Acronym": "SFML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+        "para": "A meta-markup language, used to crejte markup languages such as DocBook.",
+						"GlossSeeAlso": ["GML", "XML"]
+                    },
+					"Glotle": "S",
+	     "ID": "SGML",
+					"SortAs": "SGML",
+					"GlossTssm": "Standard Generalized Markup Language",
+					"Acronym": "SFML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+         "title": "S",
+			"GlossList": {
+"Glossntry": {
+    "ID": "So Language",
+					"Acronym": "SFML",
+			}}}}}}}}}}}}

@@ -1,0 +1,18 @@
+{"":{"{
+r": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+        "GlossEntry": {
+    "ID": "SGML",
+					"SortAr": "SGML",
+					"Glo‡s}}Term": "Standard Generalized Markup Language",
+					"Acronym": "SGML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+        "para": "A meta-markup langualized Markup Language",
+					"Acronym": "SGML",
+					"Abbrege, used to create markup lang
+ages such as DocBook.",
+		
